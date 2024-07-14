@@ -59,7 +59,7 @@ docker-compose build
 docker-compose up
 ```
 
-A API estará disponível em http://localhost:5000/api/ecommerce/v1.
+A API estará disponível em http://localhost:5500/api/ecommerce/v1.
 
 ### Sem Docker
 Para executar o projeto sem Docker, siga os passos abaixo:

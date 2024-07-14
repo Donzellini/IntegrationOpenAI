@@ -9,3 +9,9 @@ services:
       - "5500:5500"
     volumes:
       - .:/app
+
+  test:
+    build: .
+    environment:
+      - OPENAI_KEY=mock_openai_key
+    command: [ "pytest" ]
