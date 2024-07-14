@@ -1,0 +1,11 @@
+# Flask
+Flask==3.0.3
+flask-restx==1.3.0
+werkzeug==3.0.3
+
+# Open AI
+openai==1.35.13
+
+#Formatacao do projeto
+pre-commit==3.7.1
+
