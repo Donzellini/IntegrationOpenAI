@@ -9,3 +9,5 @@ openai==1.35.13
 #Formatacao do projeto
 pre-commit==3.7.1
 
+#Testes
+pytest==8.2.2
